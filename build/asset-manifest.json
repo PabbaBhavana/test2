@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PabbaBhavana/myportfolio/static/css/main.5a6c8c8b.css",
+    "main.js": "/PabbaBhavana/myportfolio/static/js/main.be6f41fe.js",
+    "static/media/angular.png": "/PabbaBhavana/myportfolio/static/media/angular.68626dc7257c9c3bd31f.png",
+    "static/media/portfolio.png": "/PabbaBhavana/myportfolio/static/media/portfolio.009ceaceb987f5a73b3e.png",
+    "static/media/CSS.jpeg": "/PabbaBhavana/myportfolio/static/media/CSS.f39bec5765237b5d1837.jpeg",
+    "static/media/pic.jpg": "/PabbaBhavana/myportfolio/static/media/pic.7a27c9714a71a9361e47.jpg",
+    "static/media/python.png": "/PabbaBhavana/myportfolio/static/media/python.b8bdaf690c9ce14b9947.png",
+    "static/media/html.jpeg": "/PabbaBhavana/myportfolio/static/media/html.8a6db9c15466aa4962b7.jpeg",
+    "static/media/sql.png": "/PabbaBhavana/myportfolio/static/media/sql.d1c240a2b1dfb6ff8eb5.png",
+    "static/media/react.svg": "/PabbaBhavana/myportfolio/static/media/react.16d32a771ac3a4154b3735d522602b8b.svg",
+    "static/media/js.jpeg": "/PabbaBhavana/myportfolio/static/media/js.5d987349787fb8334bba.jpeg",
+    "index.html": "/PabbaBhavana/myportfolio/index.html",
+    "main.5a6c8c8b.css.map": "/PabbaBhavana/myportfolio/static/css/main.5a6c8c8b.css.map",
+    "main.be6f41fe.js.map": "/PabbaBhavana/myportfolio/static/js/main.be6f41fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a6c8c8b.css",
+    "static/js/main.be6f41fe.js"
+  ]
+}
